@@ -55,7 +55,8 @@ public class CSE220 {
 //        source = reverse(source);
 //        reverse(source);
 //        rShift(source,4);
-        rRotate(source,3);
+        rRotate(source,1);
+        
         print(source);
 
 
